@@ -47,7 +47,5 @@ def score_game(random_predict) -> int:
 
 if __name__ == '__main__':
     score_game(random_predict)
-    
-print('here the commit mark1')
 
     #print(f'количество попыток: {random_predict(10)}')
