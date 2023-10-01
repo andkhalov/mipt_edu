@@ -1,6 +1,6 @@
 # My data science projects:
 
-hw, educational purposes only
+hw, educational purposes only that's it
 
 ## Projects
 
