@@ -16,7 +16,7 @@ def random_predict(number:int=1) -> int:
     
     while True:
         count += 1
-        predict_number = np.random.randint(1, 500)
+        predict_number = np.random.randint(1, 100)
         if number == predict_number:
             break # выход из цикла
     return(count)
