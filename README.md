@@ -1,9 +1,11 @@
 # My data science projects:
 
-hw, educational purposes only that's it
+Here I collect my asigments for MIPT "Data science" master degree programm.
 
-## Projects
+For educational purpose only.
+
+## Projects semester I
 
 * [Project 0: Game 'Number guessing'](https://github.com/andkhalov/mipt_edu/tree/main/project_0)
+* [Project 1: Game 'Number guessing with memory'](____)
 * [Project 2: ___________________](____)
-* [Project 3: ___________________](____)
